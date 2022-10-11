@@ -14,10 +14,18 @@ with open(r'myfile.txt', 'r') as file:
     # x = bool(re.search(r'^l', targets[0]))
     # if x:
     #         print(f"yes, {targets[0]} exists!")
-    x = re.findall(r'^l', targets[])
-    print(x)
+
+
+    # print the keyword or phrase found
+    x = re.findall(r'^l', targets[0])
+    for x in targets[0]:
+        print(x)
+
     y = re.findall(r'$ch', targets[2])
-    print(y)
+    for y in targets[2]:
+        print(y)
+
+   
             #print(f"yes, {targets[2]} exists!")
 
 # the string we are searching for
