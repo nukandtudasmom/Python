@@ -1,7 +1,7 @@
 import re
 targets =[
-    'line 8', 
-    'team',
+    'win', 
+    'zeus.exe',
     'search'
     ]
 with open(r'myfile.txt', 'r') as file:
@@ -11,17 +11,17 @@ with open(r'myfile.txt', 'r') as file:
 
    # check if keywords exist
    # x = re.findall ("GNS3")
-    # x = bool(re.search(r'^l', targets[0]))
+    # x = bool(re.search(r'^WindowsNT', targets[0]))
     # if x:
     #         print(f"yes, {targets[0]} exists!")
 
 
     # print the keyword or phrase found
-    x = re.findall(r'^l', targets[0])
+    x = re.findall(r'^Win', targets[0])
     for x in targets[0]:
         print(x)
 
-    y = re.findall(r'$ch', targets[2])
+    y = re.findall(r'+zeus.exe', targets[2])
     for y in targets[2]:
         print(y)
 
